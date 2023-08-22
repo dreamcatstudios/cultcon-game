@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small room
+* source:	https://sketchfab.com/3d-models/small-room-fb368ab514e74753b99221aaeb6ef06c
+* author:	Michal Kowalkowski (https://sketchfab.com/michkowalkowski1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small room" (https://sketchfab.com/3d-models/small-room-fb368ab514e74753b99221aaeb6ef06c) by Michal Kowalkowski (https://sketchfab.com/michkowalkowski1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

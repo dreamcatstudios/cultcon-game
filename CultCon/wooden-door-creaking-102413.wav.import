@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/wooden-door-creaking-102413.wav-c70ed3a5a189009d63ba8daa9ba2443a.sample"
+
+[deps]
+
+source_file="res://wooden-door-creaking-102413.wav"
+dest_files=[ "res://.import/wooden-door-creaking-102413.wav-c70ed3a5a189009d63ba8daa9ba2443a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

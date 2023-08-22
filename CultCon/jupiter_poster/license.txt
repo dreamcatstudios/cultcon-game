@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jupiter Poster
+* source:	https://sketchfab.com/3d-models/jupiter-poster-715283cb6c664e8eb3f116f03fac5728
+* author:	Whystler (https://sketchfab.com/Whystler)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jupiter Poster" (https://sketchfab.com/3d-models/jupiter-poster-715283cb6c664e8eb3f116f03fac5728) by Whystler (https://sketchfab.com/Whystler) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)

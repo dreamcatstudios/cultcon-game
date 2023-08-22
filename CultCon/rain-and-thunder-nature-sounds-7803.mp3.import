@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/rain-and-thunder-nature-sounds-7803.mp3-a5ebfc825bccecd3f2d4e089b3706948.mp3str"
+
+[deps]
+
+source_file="res://rain-and-thunder-nature-sounds-7803.mp3"
+dest_files=[ "res://.import/rain-and-thunder-nature-sounds-7803.mp3-a5ebfc825bccecd3f2d4e089b3706948.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
